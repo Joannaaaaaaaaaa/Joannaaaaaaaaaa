@@ -6,12 +6,12 @@ I'm interested in **Machine Learning, Data Analysis, and Data Science**, with ha
 
 ## Technical Skills
 
-**Languages:** C, Python, SQL  
-**Data Analysis:** EDA, Data Preprocessing, Data Visualization 
-**Machine Learning:** Regression, Classification, Computer Vision, Model Training, Hyperparameter Optimization 
-**Frameworks:** Scikit-learn, Pytorch, Tensorflow
+- **Languages:** C, Python, SQL  
+- **Data Analysis:** EDA, Data Preprocessing, Data Visualization 
+- **Machine Learning:** Regression, Classification, Computer Vision, Model Training, Hyperparameter Optimization 
+- **Frameworks:** Scikit-learn, Pytorch, Tensorflow
 
 ## Featured Projects
-**Stroke Risk Prediction**
-**Store Sales Forecasting**
-**Hourly Energy Consumption Forecasting**
+- **Stroke Risk Prediction**
+- **Store Sales Forecasting**
+- **Hourly Energy Consumption Forecasting**
