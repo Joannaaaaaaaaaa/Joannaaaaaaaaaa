@@ -6,7 +6,7 @@ I'm interested in **Machine Learning, Data Analysis, and Data Science**, with ha
 
 ## Technical Skills
 
-- **Languages:** C, Python, SQL  
+- **Languages:** C, C++, Python, SQL  
 - **Data Analysis:** EDA, Data Preprocessing, Data Visualization 
 - **Machine Learning:** Regression, Classification, Computer Vision, Model Training, Hyperparameter Optimization 
 - **Frameworks:** Scikit-learn, Pytorch, Tensorflow
